@@ -62,7 +62,7 @@
     "vue": "^3.3.8"
   },
   "dependencies": {
-    "import-string": "^0.1.0",
+    "import-string": "github:vanling/import-string",
     "kolorist": "^1.8.0",
     "scule": "^1.1.1",
     "vue-email": "^0.8.5"
